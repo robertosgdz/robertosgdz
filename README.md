@@ -48,4 +48,4 @@ Actualmente, estoy llevando mi carrera al siguiente nivel especializándome en *
 - 📧 Email:   robertosegadodiaz@gmail.com
 
 ---
-> *"Buscando oportunidades donde pueda combinar lógica, datos y creatividad visual."*
+> *"Disponible para incorporarme de inmediato a equipos de desarrollo, aportando versatilidad técnica y compromiso con los objetivos del proyecto."*
