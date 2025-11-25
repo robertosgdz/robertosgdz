@@ -1,47 +1,51 @@
 # Hola, soy Roberto Segado Díaz 👋
 
-Desarrollador de Aplicaciones Web (UCAM) y graduado en Animación y Diseño 3D (UMU). Me muevo en la intersección entre **tecnología** y **creatividad**, construyendo interfaces web claras y productos visuales cuidados. Actualmente curso la especialidad en **IA y Big Data** (Instituto Carlos III) para sumar análisis y automatización a mis proyectos.
+**Desarrollador y Analista Junior** con un perfil tecnológico híbrido. Combino una sólida base en **Desarrollo de Software y Web** con competencias artísticas en **Diseño 3D**.
+
+Actualmente, estoy llevando mi carrera al siguiente nivel especializándome en **Inteligencia Artificial y Big Data** (Instituto Carlos III), buscando integrar el análisis de datos y la automatización en soluciones digitales creativas.
 
 ## 🚀 En qué destaco
-- Desarrollo de interfaces modernas con **HTML5, CSS3, JavaScript** y **MySQL**.
-- Integración y personalización en **WordPress** (temas, hooks, rendimiento, SEO técnico).
-- Producción visual con **Blender** y **Krita** (modelado, rigging, texturizado y composición).
-- Enfoque UX/UI: prototipado, jerarquía visual y accesibilidad práctica.
+- **Perfil 360º:** Capacidad para entender el ciclo completo del dato: desde su arquitectura (Backend/SQL), su procesamiento (Python/IA) hasta su visualización (Frontend/3D).
+- **Desarrollo Full Stack:** Creación de interfaces con **HTML5, CSS3, JS** y lógica de negocio con **C# (.NET)** y **PHP**.
+- **Gestión de Datos:** Manejo de bases de datos **MySQL** y aprendizaje actual de modelos de IA.
+- **Creatividad Técnica:** Uso de **Blender** y **Substance Painter** para aportar valor visual y espacial a los proyectos.
 
-## 🧩 Stack y herramientas
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend / Datos:** PHP básico, MySQL
-- **CMS:** WordPress (customización y mantenimiento)
-- **3D/Arte:** Blender, Substance Painter, Krita
-- **Control de versiones:** Git, GitHub
+## 🧩 Stack Tecnológico
 
-## 💼 Experiencia reciente
-**CentralisFarma — Prácticas Duales (oct. 2024 – jun. 2025)**  
-Diseño y desarrollo de webs corporativas con **WordPress** y **código personalizado**.  
-Apoyo en un proyecto de **gestión de almacén**, proponiendo mejoras de flujo y eficiencia.
+### 💻 Data & Software (IA/Big Data)
+- **Lenguajes:** Python (Data/IA), C# (.NET), JavaScript (ES6+), PHP
+- **Herramientas:** Docker, .NET MAUI, APIs RESTful
+- **Datos:** MySQL, Estructuras de Datos, Algoritmia
 
-## 🧪 Proyectos y enlaces
-- FarmaFinder — https://farmafinder.maausk.tech/  
-- CentralisFarma — https://www.centralisfarma.com/  
-- CentralisVision — https://centralisvision.com/
+### 🌐 Web & Frontend
+- **Core:** HTML5, CSS3, JavaScript
+- **CMS:** WordPress (Desarrollo de temas y plugins a medida)
+- **Diseño:** UX/UI, Prototipado, Documentación técnica
+
+### 🎨 3D & CGI
+- **Software:** Blender, Substance Painter
+- **Skills:** Modelado, Rigging, Texturizado, Animación
+
+## 💼 Experiencia Destacada
+**CentralisFarma — Desarrollador de Aplicaciones (Prácticas Duales)**
+*(Oct 2024 – Jun 2025)*
+- **Desarrollo Web:** Diseño e implementación de portales corporativos híbridos (WordPress + Código a medida).
+- **Optimización Logística:** Colaboración técnica en el sistema de gestión de almacén, analizando flujos de trabajo para mejorar la eficiencia y el control de stock.
+
+## 🧪 Proyectos y Enlaces
+- 💊 **FarmaFinder** — [Ver proyecto](https://farmafinder.maausk.tech/)
+- 🏢 **CentralisFarma** — [Ver sitio](https://www.centralisfarma.com/)
+- 👁️ **CentralisVision** — [Ver sitio](https://centralisvision.com/)
 
 ## 🎓 Formación
-- **UCAM** — Grado en Desarrollo de Aplicaciones Web (2023–2025)  
-- **UMU** — Grado en Animación y Diseño 3D (2019–2022)  
-- **Actual** — Especialidad en **IA y Big Data** (Instituto Carlos III)
-
-## 🌐 Idiomas
-- Español: nativo  
-- Inglés: competencia básica profesional
+- **Máster en IA y Big Data** — Instituto Carlos III (En curso)
+- **Grado en Desarrollo de Aplicaciones Web** — UCAM
+- **Grado en Animación y Diseño 3D** — UMU
 
 ## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/robertosegd  
-- GitHub:  https://github.com/robertosgdz  
-- Email:   robertosegadodiaz@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/robertosegd](https://www.linkedin.com/in/robertosegd)
+- 🐙 GitHub:  [@robertosgdz](https://github.com/robertosgdz)
+- 📧 Email:   robertosegadodiaz@gmail.com
 
 ---
-
-### Objetivo
-Seguir creciendo en entornos dinámicos, aportar valor a equipos multidisciplinares y contribuir a proyectos que **combinen tecnología y diseño** con impacto real.
-
-> Disponible para oportunidades junior en **frontend**, **UX/UI**, **WordPress** y **producción digital 3D**.
+> *"Buscando oportunidades donde pueda combinar lógica, datos y creatividad visual."*
